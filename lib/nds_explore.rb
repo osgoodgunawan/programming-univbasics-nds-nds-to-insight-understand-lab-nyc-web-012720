@@ -21,7 +21,7 @@ def print_first_directors_movie_titles
   array_list=directors_database[0][:movies]
   index_array=0
     while index_array<array_list.length do 
-      puts array_list[:title]
+      puts array_list[index_array][:title]
       
     end
   
