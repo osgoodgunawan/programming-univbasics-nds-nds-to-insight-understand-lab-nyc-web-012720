@@ -13,11 +13,15 @@ end
 # printing directors_database
 pretty_print_nds(directors_database)
 
-def print_first_directors_movie_titles
-  list=directors_database[0][:movies]
-  
-  
-  
+
   "Jaws\nClose Encounters of the Third Kind\nRaiders of the Lost Ark\nE.T. the Extra-terrestrial\nSchindler's List\nLincoln\n"
+
+
+def print_first_directors_movie_titles
+  array_list=directors_database[0][:movies]
+  index_array=0
+while index_array<array_list.length do 
+end
+  
   
 end
