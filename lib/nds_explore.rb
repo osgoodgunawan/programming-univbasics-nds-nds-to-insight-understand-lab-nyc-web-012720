@@ -13,8 +13,8 @@ end
 # printing directors_database
 pretty_print_nds(directors_database)
 
-
-  "Jaws\nClose Encounters of the Third Kind\nRaiders of the Lost Ark\nE.T. the Extra-terrestrial\nSchindler's List\nLincoln\n"
+#return 
+#"Jaws\nClose Encounters of the Third Kind\nRaiders of the Lost Ark\nE.T. the Extra-terrestrial\nSchindler's List\nLincoln\n"
 
 
 def print_first_directors_movie_titles
