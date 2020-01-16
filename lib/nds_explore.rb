@@ -22,7 +22,6 @@ def print_first_directors_movie_titles
   index_array=0
     while index_array<array_list.length do 
       puts array_list[index_array][:title]
-      
+      index_array +=1
     end
-  
 end
